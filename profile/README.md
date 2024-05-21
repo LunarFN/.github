@@ -6,4 +6,4 @@
 
 ## Welcome to the official <a href="https://discord.lunarfn.org">LunarFN</a> github page!
 
-### All of our work (with some exceptions) are private due prevent other people from stealing our work.
+### Most of our work is private.
