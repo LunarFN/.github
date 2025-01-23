@@ -1,9 +1,9 @@
 # LunarFN
 
 <div align=center>
-    <img src="https://cdn.lunarfn.org/github/backend-repo/GithubHeader.png" alt="Lunarheader">
+    <img src="https://assets.aufgeladen.dev/LunarLogo.png" alt="Lunarheader">
 </div>
 
-## Welcome to the official <a href="https://discord.lunarfn.org">LunarFN</a> github page!
+## Welcome to the official <a href="https://discord.gg/bCZ7ZH5GyU">LunarFN</a> github page!
 
 ### Most of our work is private.
